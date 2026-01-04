@@ -34,9 +34,9 @@ export default function Hero() {
             <img
               src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1057976&theme=dark&t=1767502570499"
               alt="Chainfessions - Fully managed SEO that actually scales your traffic. | Product Hunt"
-              width="250"
-              height="54"
-              style={{ width: '250px', height: '54px' }}
+              width="234"
+              height="38"
+              style={{ width: '234px', height: '38px' }}
             />
           </a>
         </div>
